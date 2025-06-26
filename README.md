@@ -1,5 +1,5 @@
 
-This project was made using the SFML(zlib license) project.
+This project was made using the SFML(zlib license) project at https://github.com/SFML/SFML/tree/master.
 
 This project uses the OFL licensed ttf file called Open Sans from https://fonts.google.com/specimen/Open+Sans
 
