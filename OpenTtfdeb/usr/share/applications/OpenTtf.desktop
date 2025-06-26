@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=OpenTtf
+Comment=TTF yazı dosyalarını görüntüle
+Exec=/usr/bin/OpenTtf %f
+Icon=/usr/share/icons/OpenTtf/OpenTtf.png
+Terminal=false
+Type=Application
+MimeType=application/x-font-ttf;application/font-sfnt;application/vnd.ms-opentype;application/font-woff;application/font-woff2;
+Categories=Graphics;Utility;

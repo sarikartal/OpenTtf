@@ -1,0 +1,12 @@
+Package: openttf
+Version: 1.0
+Section: graphics
+Priority: optional
+Architecture: amd64
+Maintainer: sarikartal<sarikartalucuyor@gmail.com>
+Description: OpenTtf is a simple and lightweight TTF font viewer.
+ OpenTtf is built using the SFML graphics library and allows users to
+ easily view TTF fonts in a styled window. All required libraries are
+ included in the package.
+License: MIT (OpenTtf), includes SFML (zlib/libpng license)
+
